@@ -16,4 +16,5 @@ Specifies:
 
 # File Formats
 
-![fileformats](https://user-images.githubusercontent.com/46706647/208359406-81c9e913-f5f1-4ffd-8eed-d12bfac077f6.PNG)
+
+![fformats2](https://user-images.githubusercontent.com/46706647/208359652-38b983ab-01ef-4389-b798-92cee9ccd4fd.PNG)
