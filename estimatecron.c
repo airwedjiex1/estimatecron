@@ -1,6 +1,6 @@
-//  CITS2002 Project 1 2022
-//  Student1:   22704037   Kent   Samuel
-//  Student2:   23245207   Scaffidi   Henri
+//  Authors:
+//   Samuel Kent 
+//   Henri Scaffidi 
 
 #include <time.h>
 #include <stdio.h>
